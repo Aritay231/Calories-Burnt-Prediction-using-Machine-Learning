@@ -27,6 +27,7 @@ We experimented with a mix of linear and ensemble models to compare performance:
 - Selecting the best model for deployment
 
 📊 Results
+
 Each model was evaluated based on its ability to predict calorie expenditure accurately. RandomForestRegressor and XGBRegressor showed strong performance, with lower error rates and higher R² scores compared to linear models.
 
 🚀 Technologies Used
