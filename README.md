@@ -1,5 +1,3 @@
-Absolutely, Arian! Here's a polished and professional README.md for your Calories Burnt Prediction project using Machine Learning. You can copy and paste this into your GitHub repo, and tweak any part to match your style or add more details.
-
 🔥 Calories Burnt Prediction Using Machine Learning
 This project aims to predict the number of calories burnt during physical exercise using various machine learning models. By leveraging data from calories.csv and exercise.csv, we explore multiple regression techniques to build an accurate and efficient predictive system.
 📂 Datasets Used
